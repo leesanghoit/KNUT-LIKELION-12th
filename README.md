@@ -11,4 +11,6 @@
 
 ---
 
-##프로젝트 계획
+## 프로젝트 계획
+![KakaoTalk_20240318_1536354](https://github.com/janissary127/KNUT-LIKELION-12th/assets/88474405/4751cd4e-fd41-4f94-91e4-45c3471bdbf4)
+![KakaoTalk_20240318_153635431_01](https://github.com/janissary127/KNUT-LIKELION-12th/assets/88474405/fb03bb9b-5c90-48a6-ae52-5b0b208ea397)
